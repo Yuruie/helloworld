@@ -1,5 +1,5 @@
 input.onButtonPressed(Button.A, function () {
-    basic.showIcon(IconNames.SmallHeart)
+    basic.showIcon(IconNames.EigthNote)
 })
 input.onButtonPressed(Button.B, function () {
     basic.showIcon(IconNames.Yes)
